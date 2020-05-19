@@ -1,0 +1,9 @@
+Abkürzungen
+
+Packages:
+
+pandas as pd
+numpy as np
+seaborn as sns 
+matplotlib.pyplot as plt 
+
